@@ -1,0 +1,204 @@
+{
+	"Fullname": "Nurfajar S. Sali",
+	"Nickname": "Nur, Toto, Sal, Aki",
+	"Phone": "+63 919-284-8248",
+	"Email": "nurfajarsali@gmail.com",
+	"Address": "General Santos City, PH",
+	"occupation": "Database Administrator / Backend Developer",
+	"social_media": [
+		{
+			"icon": "icon-twitter2",
+			"link": "https://twitter.com/nrfjr_sali"
+		},
+		{
+			"icon": "icon-facebook3",
+			"link": "https://facebook.com/saging.with.banana.flavor/"
+		},
+		{
+			"icon": "icon-linkedin2",
+			"link": "https://www.linkedin.com/in/nurfajarsali/"
+		}
+	],
+	"description": [
+		{
+			"paragraph": "I'm an individual who resides on our beloved planet Earth, a person who not only appreciates the wonders of my feline companions but also thrives in the role of a database administrator. I balance my time between full-time responsibilities in database management and part-time engagement as a backend developer. I am well-versed in various technologies and possess the remarkable ability to bring your programming desires to life."
+		},
+		{
+			"paragraph": "Beyond my professional endeavors, I find great joy in exploring activities outside the confines of work. Whether it's embarking on adventurous hikes, immersing myself in the captivating world of video and board games, expressing my creativity through art, or finding solace in the enchanting act of singing, I embrace a rich and diverse range of interests."
+		},
+		{
+			"paragraph": "With a passion for feline creatures, an aptitude for technology, and a vibrant array of hobbies, I epitomize a harmonious blend of work and play. I possess the unique ability to navigate complex databases with ease and transform intricate lines of code into functional programs, all while cherishing the joys of life beyond the screen. My love for nature, gaming, artistic expression, and melodious tunes reveals a well-rounded and dynamic individual who seeks fulfillment in both professional achievements and personal pursuits. In my presence, one can witness the fusion of passion, skill, and an unwavering zest for life."
+		}
+	],
+	"work_experience": [
+		{
+			"title": "DB Admin / Backend Dev",
+			"company": "KCC Property Holdings, Inc.",
+			"date": "2022 - Current",
+			"description": "Manages and optimize databases while developing robust backend solutions, ensuring efficient data management and seamless backend systems for the company's success."
+		},
+		{
+			"title": "Cloud Service Trainee",
+			"company": "Huawei Technologies, Co. Ltd.",
+			"date": "2022",
+			"description": "Acquired skills in cloud computing to deliver scalable and efficient solutions, empowering organizations with effective cloud-based services."
+		},
+		{
+			"title": "Capstone Research",
+			"company": "RDEX Foods Internation Phils., Inc.",
+			"date": "2021 - 2022",
+			"description": "Contribute to meaningful projects, applying my knowledge and skills to conduct research and develop innovative solutions, making a valuable impact in the field."
+		}
+	],
+	"education": [
+		{
+			"degree": "Bachelors Degree in I.T.",
+			"institution": "STI College - General Santos",
+			"date": "2022",
+			"description": "Equipped me with versatile skills in coding, database management, and system analysis, enabling me to tackle various technology challenges and contribute to companies effectively."
+		}
+	],
+	"services": [
+		{
+			"title": "Software Development",
+			"icon": "icon-terminal",
+			"description": "I can build applications from scratch, provide maintenance and support for existing systems."
+		},
+		{
+			"title": "Web Development",
+			"icon": "icon-sphere",
+			"description": "I can develop websites and web applications. I offer services in HTML, CSS, JavaScript as well as Python, PHP, or .Net."
+		},
+		{
+			"title": "Database Management",
+			"icon": "icon-database",
+			"description": "Services related to database administration, including database design, efficiency, optimization, backup and recovery, and data migration."
+		},
+		{
+			"title": "Technical Consultation",
+			"icon": "icon-search",
+			"description": "I can provide consultation services that helps businesses with informed decisions about technology stack selection, assisting with troubleshooting and problem-solving."
+		},
+		{
+			"title": "Technical Support",
+			"icon": "icon-wrench",
+			"description": "Diagnosing and resolving software problems, providing guidance on how to use the software effectively, and offering assistance with software updates and patches."
+		},
+		{
+			"title": "Multimedia Editing",
+			"icon": "icon-images",
+			"description": "Editing services such as video editing, audio editing, and image editing. enhance and polish multimedia content, create professional videos, edit podcasts, or retouch images."
+		}
+	],
+	"skills": [
+		{
+			"title": "Python",
+			"percentage": "90"
+		},
+		{
+			"title": "PHP",
+			"percentage": "90"
+		},
+		{
+			"title": "JavaScript",
+			"percentage": "85"
+		},
+		{
+			"title": "C#",
+			"percentage": "85"
+		},
+		{
+			"title": "PLSQL / TSQL",
+			"percentage": "85"
+		},
+		{
+			"title": "CSS",
+			"percentage": "80"
+		},
+		{
+			"title": "HTML",
+			"percentage": "75"
+		},
+		{
+			"title": "PoSh / Shell / Batch Scripting",
+			"percentage": "75"
+		}
+	],
+	"projects": [
+		{
+			"title": "DBAHelp",
+			"description": "Database Administration Web App.",
+			"image": "assets/images/portfolio-0.jpg",
+			"link": "https://github.com/nrfjr/dbahelp"
+		},
+		{
+			"title": "Cyber Security Base",
+			"description": "Cyber security scripts written in python.",
+			"image": "assets/images/portfolio-1.jpg",
+			"link": "https://github.com/nrfjr/Cyber-Security-Base"
+		},
+		{
+			"title": "Nothing fn",
+			"description": "been busy thinking whats next.",
+			"image": "assets/images/portfolio-2.jpg",
+			"link": "#"
+		},
+		{
+			"title": "Nothing fn",
+			"description": "i mean idk",
+			"image": "assets/images/portfolio-3.jpg",
+			"link": "#"
+		},
+		{
+			"title": "Nothing fn",
+			"description": "maybe sleeping? lols.",
+			"image": "assets/images/portfolio-4.jpg",
+			"link": "#"
+		},
+		{
+			"title": "Nothing fn",
+			"description": "let me ideate for a while zZzzZ.",
+			"image": "assets/images/portfolio-5.jpg",
+			"link": "#"
+		},
+		{
+			"title": "Nothing fn",
+			"description": "i made a robot serving foods in my dreams.",
+			"image": "assets/images/portfolio-6.jpg",
+			"link": "#"
+		},
+		{
+			"title": "Nothing fn",
+			"description": "*_*",
+			"image": "assets/images/portfolio-7.jpg",
+			"link": "#"
+		}
+	],
+	"hire_me": "Looking to fund my cat's culinary adventures? Hire me! I'm a tech-savvy wizard, skilled in database administration and backend development. With your support, I'll create purrfect programs while keeping my feline friends fed and happy. Let's team up for a meow-nificent journey!",
+	"cattos": [
+		{
+			"name": "Keanu",
+			"link": "#"
+		},
+		{
+			"name": "Balito",
+			"link": "#"
+		},
+		{
+			"name": "Asud",
+			"link": "#"
+		},
+		{
+			"name": "Ashley",
+			"link": "#"
+		},
+		{
+			"name": "Shadow",
+			"link": "#"
+		},
+		{
+			"name": "Oreo",
+			"link": "#"
+		}
+	]
+}
