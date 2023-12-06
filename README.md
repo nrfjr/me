@@ -1,2 +1,2 @@
 # Me, Myself and I
-A simple static web portfolion created with AngularJS
+A simple static web portfolio created with AngularJS
