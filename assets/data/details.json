@@ -49,7 +49,7 @@
 		},
 		{
 			"title": "Capstone Research",
-			"company": "RDEX Foods Internation Phils., Inc.",
+			"company": "RDEX Foods International Phils., Inc.",
 			"date": "2021 - 2022",
 			"description": "Contribute to meaningful projects, applying my knowledge and skills to conduct research and develop innovative solutions, making a valuable impact in the field."
 		}
@@ -97,11 +97,11 @@
 	"skills": [
 		{
 			"title": "Python",
-			"percentage": "90"
+			"percentage": "85"
 		},
 		{
 			"title": "PHP",
-			"percentage": "90"
+			"percentage": "85"
 		},
 		{
 			"title": "JavaScript",
@@ -142,10 +142,10 @@
 			"link": "https://github.com/nrfjr/Cyber-Security-Base"
 		},
 		{
-			"title": "Nothing fn",
-			"description": "been busy thinking whats next.",
+			"title": "DBAChum",
+			"description": "Open Source Database Administration Web App.",
 			"image": "me/assets/images/portfolio-2.jpg",
-			"link": "#"
+			"link": "https://github.com/nrfjr/DBAChum"
 		},
 		{
 			"title": "Nothing fn",
