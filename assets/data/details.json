@@ -25,13 +25,13 @@
 	],
 	"description": [
 		{
-			"paragraph": "I'm an individual who resides on our beloved planet Earth, a person who not only appreciates the wonders of my feline companions but also thrives in the role of a database administrator. I balance my time between full-time responsibilities in database management and part-time engagement as a backend developer. I am well-versed in various technologies and possess the remarkable ability to bring your programming desires to life."
+			"paragraph": "I'm a person who not only appreciates the wonders of my feline companions but also thrives in the role of a database administrator. I balance my time between full-time responsibilities in database management and part-time engagement as a backend developer. I am well-versed in various technologies and possess the remarkable ability to bring your programming desires to life."
 		},
 		{
-			"paragraph": "Beyond my professional endeavors, I find great joy in exploring activities outside the confines of work. Whether it's embarking on adventurous hikes, immersing myself in the captivating world of video and board games, expressing my creativity through art, or finding solace in the enchanting act of singing, I embrace a rich and diverse range of interests."
+			"paragraph": "Beyond my professional endeavors, I find great joy in exploring activities outside the confines of work. Whether it's embarking on adventurous hikes, immersing myself in the captivating world of video and board games, or expressing my creativity through art, I embrace a rich and diverse range of interests."
 		},
 		{
-			"paragraph": "With a passion for feline creatures, an aptitude for technology, and a vibrant array of hobbies, I epitomize a harmonious blend of work and play. I possess the unique ability to navigate complex databases with ease and transform intricate lines of code into functional programs, all while cherishing the joys of life beyond the screen. My love for nature, gaming, artistic expression, and melodious tunes reveals a well-rounded and dynamic individual who seeks fulfillment in both professional achievements and personal pursuits. In my presence, one can witness the fusion of passion, skill, and an unwavering zest for life."
+			"paragraph": "With a passion for feline creatures, an aptitude for technology, and a vibrant array of hobbies, I epitomize a harmonious blend of work and play. I possess the unique ability to navigate complex databases with ease and transform intricate lines of code into functional programs, all while cherishing the joys of life beyond the screen. My love for nature, gaming and artistic expression reveals a well-rounded and dynamic individual who seeks fulfillment in both professional achievements and personal pursuits. In my presence, one can witness the fusion of passion and skill for life."
 		}
 	],
 	"work_experience": [
@@ -51,7 +51,7 @@
 			"title": "Capstone Research",
 			"company": "RDEX Foods International Phils., Inc.",
 			"date": "2021 - 2022",
-			"description": "Contribute to meaningful projects, applying my knowledge and skills to conduct research and develop innovative solutions, making a valuable impact in the field."
+			"description": "Contributed to meaningful projects, applying my knowledge and skills to conduct research and develop innovative solutions, making a valuable impact in actual field."
 		}
 	],
 	"education": [
@@ -178,7 +178,7 @@
 			"link": "#"
 		}
 	],
-	"hire_me": "Looking to fund my cat's culinary adventures? Hire me! I'm a tech-savvy wizard, skilled in database administration and backend development. With your support, I'll create purrfect programs while keeping my feline friends fed and happy. Let's team up for a meow-nificent journey!",
+	"hire_me": "Looking to fund my cat's culinary adventures? Hire me! I'm a tech-savvy individual, skilled in database administration and backend development. With your support, I'll create perfect programs while keeping my feline friends fed and happy. Let's team up for a magnificent journey!",
 	"cattos": [
 		{
 			"name": "Keanu",
